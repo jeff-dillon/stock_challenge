@@ -20,4 +20,4 @@ import csv
 
 #
 # Challenge 2: Implement non-Pandas solution here
-# Hint: 
+# 

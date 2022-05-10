@@ -13,5 +13,7 @@ Bonus: Implement the requirements withouut using Pandas.
 
 ## Instructions
 
+1. create a virtual environment `python -m venv venv`
+1. activate the virtual environment `source venv/bin/activate` or `venv\Scripts\activate.bat`
 1. install the required packages `python -m pip install -r requirements.txt`
 1. add your code to the challenge.py file
